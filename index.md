@@ -37,5 +37,5 @@ _Actual schedule may vary depending on group needs_
 
 ### Workshop Slides
 
-<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/waml_github20"></iframe>    
+<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/teachGitHub"></iframe>    
 *Click on the slides then press the F key for full screen*
