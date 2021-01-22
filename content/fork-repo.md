@@ -12,7 +12,7 @@ In this workshop we're going to duplicate this same workshop to your own GitHub 
 ### *2*{: .circle .circle-blue} Click on the option to Fork the repository
 You'll see an option to Fork at the top right of your screen.   
 
-![Fork location](../img/fork-location.png)
+![Fork location](img/fork-location.png)
 
 GitHub should pause for a moment while it copies the files from this repo to yours. When it's finished, you'll see a note that the repo has been "forked from [outpw/workshop-template](https://github.com/outpw/workshop-template)" in the top left.
 
@@ -47,7 +47,7 @@ Step 2
 {: .label .label-step}
 Select the **edit file** tool on the top left
 {: .step}
-![Edit file](../img/edit-file.png)
+![Edit file](img/edit-file.png)
 
 Step 3
 {: .label .label-step}
@@ -70,7 +70,7 @@ Add something brief to your commit message – you can literally recycle the pro
 
 ### *4*{: .circle .circle-blue} Go to your repository's Settings menu
 We're almost ready to publish our workshop site! We can do that in our site's **Settings** which is found by clicking the top right tab.
-![Edit file](../img/settings.png)
+![Settings](img/settings.png)
 
 ### *5*{: .circle .circle-blue} Publish your workshop site
 Scroll down to the settings for GitHub Pages (almost to the bottom (Danger Zone!)). Under **Source** select your only branch (either `main` or `master`).  
