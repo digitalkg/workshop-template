@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Fork This Workshop
-parent: Hands On
 nav_order: 3.1
 ---
 # Fork this workshop template
