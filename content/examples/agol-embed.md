@@ -2,7 +2,7 @@
 layout: default
 title: ArcGIS Online
 parent: Example Pages
-nav_order: 3
+nav_order: 4
 ---
 # Embedding ArcGIS Online Content
 

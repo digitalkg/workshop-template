@@ -2,7 +2,7 @@
 layout: default
 title: Adding Slides
 parent: Example Pages
-nav_order: 4
+nav_order: 5
 ---
 # Adding presentation slides
 

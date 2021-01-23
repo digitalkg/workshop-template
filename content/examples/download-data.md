@@ -2,7 +2,7 @@
 layout: default
 title: Data Downloads
 parent: Example Pages
-nav_order: 5
+nav_order: 6
 ---
 # Data downloads
 GitHub.com allows you to upload data files to your repositories. While the platform works best with text-based files, you can still upload .zipped Shapefiles or images and store them too. Just be aware that [GitHub recommends keeping your repos less than 1GB](https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations) in total file size.
