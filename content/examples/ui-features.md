@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UI Features
-parent:
+parent: Example Pages
 nav_order: 1
 ---
 # UI features
