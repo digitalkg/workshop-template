@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 # A Jekyll template for workshops
-[bit.ly/waml20git](http://bit.ly/waml20git)  
+[outpw.github.io/workshop-template](https://outpw.github.io/workshop-template)  
 
 ____
 
