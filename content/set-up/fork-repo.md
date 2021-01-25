@@ -37,7 +37,7 @@ In this workshop we're only going to be looking at a couple of these including t
 {: .note}
 
 ### *3*{: .circle .circle-blue} Edit your _config.yml
-We will need to publish this repository as a "GitHub Page", so that it's live at **[your GitHub username].github.io**. Right now it's configured to appear at **ubc-lib-geo.github.io**. Before we publish, we'll need to make some edits to our main site configuration file, '_config.yml'.
+We will need to publish this repository as a "GitHub Page", so that it's live at **[your GitHub username].github.io**. Right now it's configured to appear at **outpw.github.io**. Before we publish, we'll need to make some edits to our main site configuration file, '_config.yml'.
 
 Step 1
 {: .label .label-step}
