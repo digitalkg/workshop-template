@@ -16,7 +16,7 @@ ___
 Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses:
 
 ```
-![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svgg)
+![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg)
 ```
 
 ![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg)
