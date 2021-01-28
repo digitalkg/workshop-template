@@ -15,10 +15,10 @@ Use an iframe and paste the URL to your slides after src= and before </iframe>
 Are you hosting Reveal.js slides on your GitHub Pages? Just paste the link into an iframe!
 
 ```html
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" src="https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/slides/waml_github20"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/teachGitHub"></iframe>
 ```
 
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" src="https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/slides/waml_github20"></iframe>  
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/teachGitHub"></iframe>  
 
 ____
 
