@@ -24,7 +24,7 @@ Start an in-line link with an exclamation point then place the alt text in the b
 You can also add images "reference style." This is handy if you don't want to clutter up your Markdown. You can just place the references at the bottom of the page. It goes like this:
 
 ```
-![Point Sublime][Sublime]
+![Globe][Benson]
 
 [Benson]: https://www.colorado.edu/libraries/sites/default/files/styles/large_square_thumbnail/public/callout/benson2.jpg?itok=XIs5-G6Y
 ```
