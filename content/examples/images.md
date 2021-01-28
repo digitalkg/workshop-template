@@ -16,20 +16,20 @@ ___
 Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses:
 
 ```
-![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)
+![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svgg)
 ```
 
-![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)
+![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg)
 
 You can also add images "reference style." This is handy if you don't want to clutter up your Markdown. You can just place the references at the bottom of the page. It goes like this:
 
 ```
 ![Point Sublime][Sublime]
 
-[Sublime]: http://www.waml.org/groundwork-master/images/grndcnyn.jpg
+[Benson]: https://www.colorado.edu/libraries/sites/default/files/styles/large_square_thumbnail/public/callout/benson2.jpg?itok=XIs5-G6Y
 ```
 
-![Point Sublime][Sublime]
+![Globe][Benson]
 
 Nice job!
 
@@ -79,10 +79,10 @@ Here's a regular link:
 Here's a linked image:
 
 ```
-[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
+[![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg)](https://www.colorado.edu/libraries/)
 ```
 
-[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
+[![CU Logo](https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg)](https://www.colorado.edu/libraries/)
 
 _Click Me!_
 
@@ -105,4 +105,4 @@ Aren't you so fancy!!
 ![So Fancy](https://media.giphy.com/media/i5gAt8Fq6xl9C/giphy.gif)
 
 <!--reference links-->
-[Sublime]: http://www.waml.org/groundwork-master/images/grndcnyn.jpg
+[Benson]: https://www.colorado.edu/libraries/sites/default/files/styles/large_square_thumbnail/public/callout/benson2.jpg?itok=XIs5-G6Y
